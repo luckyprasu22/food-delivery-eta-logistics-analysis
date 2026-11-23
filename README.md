@@ -4,7 +4,16 @@ End-to-end food delivery analysis using Python, SQL and Power BI Analysis of 50,
 
 An end-to-end data analytics project on **50,000 food delivery orders** from the platform **FoodRush**. It uses **Python**, **SQL (MySQL)** and **Power BI** to find out what drives delivery time, delays and revenue, and to recommend how to reduce late deliveries.
 
-![Executive Overview](images/01_executive_overview.png)
+
+## Dashboard Screenshots
+
+![Executive Overview](images/Executive_Overview.png)
+![Customer Analytics](images/customer_Analytics.png)
+![Restaurant Analytics](images/Restaurant_Analytics.png)
+![Driver Analytics](images/Driver_Analytics.png)
+![Logistics and ETA](images/Logistics&ETA.png)
+![Financial Analysis](images/Financial_Analysis.png)
+![Delay and Risk Analysis](images/Delay&risk_analysis.png)
 
 ---
 
